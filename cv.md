@@ -12,7 +12,7 @@ Trainee Front End Developer without working experience who is passionate about s
 Currently taking a JavaScript/Front-end online course by The Rolling Scopes community.
 
 Relevant experience:
-Projects and coding tests (HTML, CSS, Javascript) taken during training at The Rolling Scopes School. You can see some of my latest coding examples at my GitHub account (https://github.com/iraaii?tab=repositories).
+Projects and coding tests (HTML, CSS, Javascript) taken during training at The Rolling Scopes School. You can see some of my latest coding examples at [my GitHub account](https://github.com/iraaii?tab=repositories).
 
 Languages:
 Russian (Native)
